@@ -35,7 +35,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## **Workbook**
 
-![Workbook](https://github.com/AdityaSachan/BlinkIt-Grocery-Data-Analysis-project/blob/main/BlinkIT%20Grocery%20Data%20Analysis%20Project.xlsx)
+[Workbook](https://github.com/AdityaSachan/BlinkIt-Grocery-Data-Analysis-project/blob/main/BlinkIT%20Grocery%20Data%20Analysis%20Project.xlsx)
 
 ## **Project Insight**
 
